@@ -1,4 +1,6 @@
 
+link to video showing functionality
+https://drive.google.com/file/d/1x46hnUxEU-VMtnTZMmAmra1r_CpvQ3nU/view
 
 # all done
 ![license](https://img.shields.io/badge/license-MIT-red.svg)
